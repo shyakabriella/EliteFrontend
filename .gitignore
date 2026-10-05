@@ -33,3 +33,9 @@ Thumbs.db
 *.backup-*
 *.backup.*
 storage/backups/
+
+# local backups and build info
+*.before-*
+*.backup-*
+tsconfig.tsbuildinfo
+.env*.local
